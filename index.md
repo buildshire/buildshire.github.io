@@ -7,6 +7,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Earn](./earn.html).
 [Learn](./learn.html).
 
+(https://progress-bar.dev/1/?scale=100&title=Flask&width=120&color=babaca&suffix=$)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
