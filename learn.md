@@ -99,8 +99,8 @@
 
 * * *
 
-## [Pandas](#endangered-animal)
-
+## Pandas 
+[|](#endangered-animal)
 1.  tips
 > all links that can save time
 >
