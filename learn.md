@@ -1,4 +1,4 @@
-## Machine Learning
+## [Machine Learning](#ml-learn)
 
 1.  Lecture Notes
 > MIT MOOC lecture notes
@@ -16,9 +16,15 @@
 >
 > [Go there](https://www.reddit.com/r/learnmachinelearning/comments/elt6qa/machine_learning_from_scratch_tutorials_on_youtube/).
 
+4.  regression metrics
+> Youtube video tutorial
+>
+> [Go there](https://www.youtube.com/watch?v=gofilGC-vMk&feature=emb_title).
+
+
 * * *
 
-## Flask
+## [Flask](#fl-learn)
 
 1.  On VS Code
 > easy development tutorial
@@ -53,7 +59,7 @@
 
 * * *
 
-## Redis
+## [Redis](#cache-it-out)
 
 1.  Use cases
 > in depth, kinda !
@@ -62,7 +68,7 @@
 
 * * *
 
-## Algo challenges
+## [Algo challenges](#challenge-everything)
 
 1.  Codechef
 > topic wise links
@@ -93,7 +99,7 @@
 
 * * *
 
-## Pandas
+## [Pandas](#endangered-animal)
 
 1.  tips
 > all links that can save time
