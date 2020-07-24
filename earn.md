@@ -12,7 +12,7 @@
 ## Challenges
 
 1.  Topcoder
-> [ ] try all submissions
+> <ul><li>- [ ] try all submissions with task-list</li></ul>
 >
 > [Go there](https://www.topcoder.com/challenges).
 
