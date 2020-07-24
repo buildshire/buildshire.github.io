@@ -1,4 +1,4 @@
-## Flask
+[^earn-with-flask]: ## Flask[^earn-with-flask]: 
 
 1.  
 > This is a blockquote following a header.
@@ -9,7 +9,7 @@
 
 * * *
 
-## Challenges
+[^earn-with-algo-challenges]: ## Challenges
 
 1.  Topcoder
 > try all submissions

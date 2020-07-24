@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Earn](./earn.html).
 [Learn](./learn.html).
 
-![Progress](https://progress-bar.dev/1/?scale=100&title=Flask&width=120&color=babaca&suffix=$)
+![Progress](https://progress-bar.dev/1/?scale=100&title=Flask&width=120&color=babaca&suffix=%)
 
 There should be whitespace between paragraphs.
 
