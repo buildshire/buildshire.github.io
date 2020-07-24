@@ -1,7 +1,7 @@
 ## Flask
 
 1.  
-> [ ] This is a blockquote following a header.
+> :heavy_check_mark: This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 >
@@ -12,7 +12,7 @@
 ## Challenges
 
 1.  Topcoder
-> <ul><li>- [ ] try all submissions with task-list</li></ul>
+> :white_check_mark: try all submissions
 >
 > [Go there](https://www.topcoder.com/challenges).
 
