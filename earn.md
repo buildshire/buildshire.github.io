@@ -1,7 +1,7 @@
-## [Flask](#earn-with-flask)
+## Flask
 
 1.  
-> This is a blockquote following a header.
+> - [ ] This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 >
@@ -9,10 +9,10 @@
 
 * * *
 
-## [Challenges](#earn-with-algo-challenges)
+## Challenges
 
 1.  Topcoder
-> try all submissions
+> - [ ] try all submissions
 >
 > [Go there](https://www.topcoder.com/challenges).
 
